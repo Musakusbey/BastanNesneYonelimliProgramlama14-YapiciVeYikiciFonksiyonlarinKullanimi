@@ -1,0 +1,2 @@
+# BastanNesneYonelimliProgramlama14-YapiciVeYikiciFonksiyonlarinKullanimi
+BastanNesneYonelimliProgramlama14-YapiciVeYikiciFonksiyonlarinKullanimi
